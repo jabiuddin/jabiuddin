@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 - 
 
 -->
-https://github.com/jabiuddin/github-readme-stats
+
+![jabiuddin's github stats](https://github-readme-stats.vercel.app/api?username=jabiuddin&count_private=true&show_icons=true&theme=radical)
 
