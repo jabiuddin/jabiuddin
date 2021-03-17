@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 ![jabiuddin's github stats](https://github-readme-stats.vercel.app/api?username=jabiuddin&count_private=true&show_icons=true&theme=radical)
 
 -->
+❤<br><br> <img src="https://profile-counter.glitch.me/happycodinglover/count.svg" /></a>
 
 
