@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/jabiuddin"><img src="https://api.daily.dev/devcards/e4155e980f6a46bd962991d4b58ca38f.png?r=3ah" width="400" alt="jabiuddin's Dev Card"/></a>
 
 **jabiuddin/jabiuddin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
